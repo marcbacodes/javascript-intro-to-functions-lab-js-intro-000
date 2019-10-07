@@ -7,7 +7,7 @@ return string.toLowerCase();
 }
 
 function logShout(string){
-console.log().toUpperCase();
+console.log("hello").toUpperCase();
 }
 
 function sayHiToGrandma(string) {
