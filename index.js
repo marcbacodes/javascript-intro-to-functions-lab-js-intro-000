@@ -11,5 +11,6 @@ console.log(string).toUpperCase();
 }
 
 function sayHiToGrandma(string) {
-  return string.toUpperCase();
+var string="I can\'t hear you!";
+return string.toUpperCase();
 }
